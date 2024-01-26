@@ -2,4 +2,5 @@ Ivan Beà
 
 A vegades faig coses
 
-https://ivanbea.wordpress.com/
+
+[web]: https://ivanbea.wordpress.com/
