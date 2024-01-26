@@ -2,7 +2,7 @@
 
 Vingut de Montoliu de Lleida i havent estudiat Química he acabat a Olot amb temes de tecnologies.
 
-Interès amb programari lliure, xarxes, democràcia, literatura, música...
+Interès en el programari lliure, xarxes, democràcia, literatura, música...
 
 ## A vegades faig coses
 
@@ -16,5 +16,5 @@ Interès amb programari lliure, xarxes, democràcia, literatura, música...
 
 **Linkedin, si em voleu donar feina [linkedin.com/in/ivanbea](https://www.linkedin.com/in/ivanbea)**
 
-**Researchgate, en una altre temps vaig fer recerca acadèmica en química [researchgate.net/profile/Ivan-Bea](https://www.researchgate.net/profile/Ivan-Bea)**
+**Researchgate, en un altre temps vaig fer recerca acadèmica en química [researchgate.net/profile/Ivan-Bea](https://www.researchgate.net/profile/Ivan-Bea)**
 
