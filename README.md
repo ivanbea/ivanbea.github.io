@@ -2,4 +2,7 @@ Ivan Beà
 
 A vegades faig coses
 
-[web]: https://ivanbea.wordpress.com/ "Blog a wordress"
+<https://ivanbea.wordpress.com/>
+
+*asteriscs* **dobles**
+_guionets_ __dobles__
