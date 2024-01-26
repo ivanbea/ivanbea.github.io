@@ -10,7 +10,7 @@ Interès en el programari lliure, xarxes, democràcia, literatura, música...
 
 **Bluesky, l'única xarxa social que penso mantenir: [ivanbea.bsky.social](https://bsky.app/profile/ivanbea.bsky.social)**
 
-**Soundcloud, per penjar-hi alguna creació musical [soundcloud.com/ivan-bea](https://soundcloud.com/ivan-bea)**
+**Soundcloud, per penjar-hi alguna creació musical [soundcloud.com/ivan_bea](https://soundcloud.com/ivan_bea)**
 
 **Wikiloc, per les rutes en bicicleta de muntanya i gravel [www.wikiloc.com/wikiloc/user.do?id=289344](https://www.wikiloc.com/wikiloc/user.do?id=289344)**
 
