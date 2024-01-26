@@ -1,17 +1,20 @@
-Ivan Beà
+# Ivan Beà
 
-A vegades faig coses
+Vingut de Montoliu de Lleida i havent estudiat Química he acabat a Olot amb temes de tecnologies.
 
-**Web: [ivanbea.wordpress.com](https://ivanbea.wordpress.com/)**
+Interès amb programari lliure, xarxes, democràcia, literatura, música...
 
-**Bluesky: [ivanbea.bsky.social](https://bsky.app/profile/ivanbea.bsky.social)**
+## A vegades faig coses
 
-**Soundcloud [soundcloud.com/ivan-bea](https://soundcloud.com/ivan-bea)**
+**Web que recull una mica de tot: [ivanbea.wordpress.com](https://ivanbea.wordpress.com/)**
 
-**Wikiloc [www.wikiloc.com/wikiloc/user.do?id=289344](https://www.wikiloc.com/wikiloc/user.do?id=289344)**
+**Bluesky, l'única xarxa social que penso mantenir: [ivanbea.bsky.social](https://bsky.app/profile/ivanbea.bsky.social)**
 
-**Linkedin [linkedin.com/in/ivanbea](https://www.linkedin.com/in/ivanbea)**
+**Soundcloud, per penjar-hi alguna creació musical [soundcloud.com/ivan-bea](https://soundcloud.com/ivan-bea)**
 
-** []()**
+**Wikiloc, per les rutes en bicicleta de muntanya i gravel [www.wikiloc.com/wikiloc/user.do?id=289344](https://www.wikiloc.com/wikiloc/user.do?id=289344)**
 
-** []()**
+**Linkedin, si em voleu donar feina [linkedin.com/in/ivanbea](https://www.linkedin.com/in/ivanbea)**
+
+**Researchgate, en una altre temps vaig fer recerca acadèmica en química [researchgate.net/profile/Ivan-Bea](https://www.researchgate.net/profile/Ivan-Bea)**
+
