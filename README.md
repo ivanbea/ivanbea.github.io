@@ -18,4 +18,4 @@ Interès en el programari lliure, xarxes, democràcia, literatura, música...
 
 **Researchgate, en un altre temps vaig fer recerca acadèmica en química [researchgate.net/profile/Ivan-Bea](https://www.researchgate.net/profile/Ivan-Bea)**
 
-
+_____________________________________________________________________________________________________________________________________________________________
