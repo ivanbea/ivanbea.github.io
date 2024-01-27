@@ -8,8 +8,10 @@ Interès en el programari lliure, xarxes, democràcia, literatura, música...
 ## A vegades faig coses
 
 **Web que recull una mica de tot: [ivanbea.wordpress.com](https://ivanbea.wordpress.com/)**
-_____________________________________________________________________________________________________________________________________________________________
+
+
 **Bluesky, l'única xarxa social que penso mantenir: [@ivanbea.bsky.social](https://bsky.app/profile/ivanbea.bsky.social)**
+
 En aquesta xarxa he fet uns quants bots que publiquen informació automàticament
 | Bot | Enllaç |
 | --- | --- |
@@ -21,13 +23,17 @@ En aquesta xarxa he fet uns quants bots que publiquen informació automàticamen
 | Rodamots, cada dia un mot |[@rodamots.bsky.social](https://bsky.app/profile/rodamots.bsky.social)|
 | Nous articles a la viquipèdira |[@nouaviquipedia.bsky.social](https://bsky.app/profile/nouaviquipedia.bsky.social)|
 | Notícies, canal amb totes les notícies |[Notícies](https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/lists/3khrnwe7c3m2k)|
-_____________________________________________________________________________________________________________________________________________________________
+
+
 **Bandcamp, per penjar-hi alguna creació musical [ivanbea.bandcamp.com/music](https://ivanbea.bandcamp.com/music)**
-_____________________________________________________________________________________________________________________________________________________________
+
+
 **Wikiloc, per les rutes en bicicleta de muntanya i gravel [www.wikiloc.com/wikiloc/user.do?id=289344](https://www.wikiloc.com/wikiloc/user.do?id=289344)**
-_____________________________________________________________________________________________________________________________________________________________
+
+
 **Linkedin, si em voleu donar feina [linkedin.com/in/ivanbea](https://www.linkedin.com/in/ivanbea)**
-_____________________________________________________________________________________________________________________________________________________________
+
+
 **Researchgate, en un altre temps vaig fer recerca acadèmica en química [researchgate.net/profile/Ivan-Bea](https://www.researchgate.net/profile/Ivan-Bea)**
-_____________________________________________________________________________________________________________________________________________________________
-_____________________________________________________________________________________________________________________________________________________________
+
+
