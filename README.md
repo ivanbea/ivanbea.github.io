@@ -13,6 +13,7 @@ Interès en el programari lliure, xarxes, democràcia, literatura, música...
 **Bluesky, l'única xarxa social que penso mantenir: [@ivanbea.bsky.social](https://bsky.app/profile/ivanbea.bsky.social)**
 
 En aquesta xarxa he fet uns quants bots que publiquen informació automàticament
+
 | Bot | Enllaç |
 | --- | --- |
 | 324 notícies de Catalunya |[@324cat.bsky.social](https://bsky.app/profile/324cat.bsky.social)|
