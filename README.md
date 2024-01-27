@@ -1,4 +1,5 @@
 # Ivan Beà
+![Ivan tocant la guitarra acústica](Ivan_acustica.jpg)
 
 Vingut de Montoliu de Lleida i havent estudiat Química he acabat a Olot amb temes de tecnologies.
 
