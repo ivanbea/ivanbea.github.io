@@ -24,7 +24,7 @@ En aquesta xarxa he fet uns quants bots que publiquen informació automàticamen
 | Rodamots, cada dia un mot |[@rodamots.bsky.social](https://bsky.app/profile/rodamots.bsky.social)|
 | Nous articles a la viquipèdira |[@nouaviquipedia.bsky.social](https://bsky.app/profile/nouaviquipedia.bsky.social)|
 | Notícies, canal amb totes les notícies |[Notícies](https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/lists/3khrnwe7c3m2k)|
-| canal amb usuaris que publiquen en català |[Bluesky català].(https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/feed/aaaihn4fbvgga).|
+| Canal amb usuaris que publiquen en català |[Bluesky català](https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/feed/aaaihn4fbvgga)|
 
 
 **Bandcamp, per penjar-hi alguna creació musical [ivanbea.bandcamp.com/music](https://ivanbea.bandcamp.com/music)**
