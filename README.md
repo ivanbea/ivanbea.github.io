@@ -22,12 +22,16 @@ En aquesta xarxa he fet uns quants bots que publiquen informació automàticamen
 | Diari Andorra notícies d'Andorra |[@diariandorra.bsky.social](https://bsky.app/profile/diariandorra.bsky.social)|
 | Meteocat el Temps |[@catalunyameteo.bsky.social](https://bsky.app/profile/catalunyameteo.bsky.social)|
 | Rodamots, cada dia un mot |[@rodamots.bsky.social](https://bsky.app/profile/rodamots.bsky.social)|
-| Nous articles a la viquipèdira |[@nouaviquipedia.bsky.social](https://bsky.app/profile/nouaviquipedia.bsky.social)|
+| Nous articles a la viquipèdia |[@nouaviquipedia.bsky.social](https://bsky.app/profile/nouaviquipedia.bsky.social)|
+| Concerts, publica amb les dates de concerts publicades a Altaveu [Concerts](https://bsky.app/profile/agendamusical.bsky.social)
+| Ésadir, publica les paraules del portal esadir de la CCMA [Esadir](https://bsky.app/profile/esadir.bsky.social)||
 | Notícies, canal amb totes les notícies |[Notícies](https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/lists/3khrnwe7c3m2k)|
 | Canal amb usuaris que publiquen en català |[Bluesky català](https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/feed/aaaihn4fbvgga)|
 
 
 **Bandcamp, per penjar-hi alguna creació musical [ivanbea.bandcamp.com/music](https://ivanbea.bandcamp.com/music)**
+
+**Spotify d'artista [Ivan Beà a Spotify](https://open.spotify.com/artist/3qPyKOx0hIcSBGrGdrDkZ2?si=AmOXtjmvTOac943t67QwNQ).**
 
 
 **Wikiloc, per les rutes en bicicleta de muntanya i gravel [www.wikiloc.com/wikiloc/user.do?id=289344](https://www.wikiloc.com/wikiloc/user.do?id=289344)**
