@@ -32,6 +32,7 @@ En aquesta xarxa he fet uns quants bots que publiquen informació automàticamen
 **Bandcamp, per penjar-hi alguna creació musical [ivanbea.bandcamp.com/music](https://ivanbea.bandcamp.com/music)**
 
 **Spotify d'artista [Ivan Beà a Spotify](https://open.spotify.com/artist/3qPyKOx0hIcSBGrGdrDkZ2?si=AmOXtjmvTOac943t67QwNQ).**
+
 **Perfil a Tidal [Ivan Beà a Tidal](https://tidal.com/browse/artist/47115752).**
 
 
