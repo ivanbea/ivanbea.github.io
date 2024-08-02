@@ -25,6 +25,7 @@ En aquesta xarxa he fet uns quants bots que publiquen informació automàticamen
 | Nous articles a la viquipèdia |[@nouaviquipedia.bsky.social](https://bsky.app/profile/nouaviquipedia.bsky.social)|
 | Concerts, publica amb les dates de concerts publicades a Altaveu |[@agendamusical.bsky.social](https://bsky.app/profile/agendamusical.bsky.social)
 | Ésadir, publica les paraules del portal esadir de la CCMA |[@esadir.bsky.social](https://bsky.app/profile/esadir.bsky.social)||
+| Receptes, publica les receptes de receptes.cat |[@receptes.bsky.social](https://bsky.app/profile/receptes.bsky.social)||
 | Notícies, canal amb totes les notícies |[Notícies](https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/lists/3khrnwe7c3m2k)|
 | Canal amb usuaris que publiquen en català |[Bluesky català](https://bsky.app/profile/did:plc:hubo577f4nnnuxtxvzk5nb5j/feed/aaaihn4fbvgga)|
 
